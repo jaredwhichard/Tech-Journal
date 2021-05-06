@@ -1,0 +1,7 @@
+{
+    "client_id": "mando",
+    "client_secret": "thechild",
+    "authorization_base_url": "https://github.com/login/oauth/authorize",
+    "token_url": "https://github.com/login/oauth/access_token"
+    
+}
